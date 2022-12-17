@@ -16,4 +16,6 @@ segundaDiv.appendChild(primeiroPraragrafo);
 PrimeiraDiv.appendChild(segundoParagrafo);
 main.appendChild(PrimeiraDiv);
 main.appendChild(segundaDiv);
+segundoParagrafo.appendChild( textosegundoparagrafo);
+primeiroPraragrafo.appendChild(textoprimeiroparagrafo);
 
